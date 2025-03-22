@@ -1,3 +1,6 @@
+#Instalação no Terminal
+pip install enelvo
+
 # Projeto simples com Enelvo
 from enelvo.normaliser import Normaliser
 
